@@ -1,0 +1,6 @@
+langchain
+openai
+faiss-cpu
+chainlit
+requests
+python-dotenv
